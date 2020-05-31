@@ -1,2 +1,3 @@
 # himadrikakran.github.io
-Public website
+
+This is Himdari Kakran's public website
