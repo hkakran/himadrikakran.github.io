@@ -1,4 +1,4 @@
-baseurl      = "localhost"
+baseurl      = "https://himadrikakran.com"
 title        = "My Website"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
