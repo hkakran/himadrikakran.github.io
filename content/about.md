@@ -1,16 +1,16 @@
 ## Hello and welcome to my world :earth_americas:
 
-I'm a Software Engineering Manager passionate about building loveable, reliable, and intuitive products.
+I'm a Software Engineering Manager passionate about building loveable, reliable, and intuitive products. :rocket:
 
-I like talking about programming, developer workflow, and software design principles. 
+I like talking about programming, developer workflow, and software design principles. 👩🏽‍💻
 
 I am motivated to help people and teams grow as they solve real-world technological challenges. 
 
-I've been building real time trading applications for the past 8 years. I know a few things about the financial domain.
+I've been building real time trading applications :chart_with_upwards_trend: for the past 8 years. I know a few things about the financial domain.
 
-All food everything excites me. I aim to eat at every 3 Michelin Star restaurants in the world. 
+All food :stew: everything excites me. I aim to eat at every 3 Michelin Star restaurants in the world. 
 
-Spelling is my biggest weakness. 
+Spelling is my biggest weekness. :smile:
 
 After hours you'll probably find me at your nearest boxing gym, punching some bags. 
 
