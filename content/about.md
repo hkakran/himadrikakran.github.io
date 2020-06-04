@@ -6,6 +6,8 @@ I like talking about programming, developer workflow, and software design princi
 
 I am motivated to help people and teams grow as they solve real-world technological challenges. 
 
+I've been building low latency, real time trading applications for the past 8+ years.
+
 All food everything excites me. I aim to eat at every 3 Michelin Star restaurants in the world. 
 
 Spelling is my biggest weakness. 

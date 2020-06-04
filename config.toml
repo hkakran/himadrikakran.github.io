@@ -20,7 +20,7 @@ enableEmoji  = true
   customCSS = ["/static/style.css"]
 
   # Metadata mostly used in document's head
-  description = "My new homepage"
+  description = "Musings of a NYC Engineer"
   keywords = "homepage, blog"
   images = [""]
 
