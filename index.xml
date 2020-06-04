@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Himadri Kakran</title>
+    <link>localhost/</link>
+    <description>Recent content on Himadri Kakran</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    
+	<atom:link href="localhost/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>localhost/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>localhost/about/</guid>
+      <description>Hello and welcome to my world 🌎 I&amp;rsquo;m a Software Engineering Manager passionate about building loveable, reliable and intuitive products.
+I like talking about programming, developer workflow and software design principles.
+I am motivated to help people and teams grow to solve real world technological challenges.
+All food everything, excites me. I aim to eat at every 3 michillen star restaurant in the world.
+Spelling is my biggest weakness.
+After hours you&amp;rsquo;ll probably find me at your nearest boxing gym, punching some bags.</description>
+    </item>
+    
+  </channel>
+</rss>
