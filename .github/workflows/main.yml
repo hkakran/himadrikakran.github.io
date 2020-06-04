@@ -1,0 +1,30 @@
+# This is a basic workflow to publish master to github pages
+name: Publish Site
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  build-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@master
+        with:
+          submodules: true
+      - name: Hugo Deploy GitHub Pages
+        uses: benmatselby/hugo-deploy-gh-pages@v1.4.0
+        with:
+          # The version of hugo to use.
+          # hugo_version: 
+          # Your PAT to authorise the action to do things.
+          TOKEN: ${{ secrets.ACCESS_TOKEN }}
+          # The repo name you want to clone and push to.
+          TARGET_REPO: hkakran/himadrikakran.github.io
+          # Any extra arguments to pass to Hugo.
+          # hugo_args: # optional
+          # If you are defining a custom domain name for your GitHub site, put that value in this variable.
+          CNAME: himadrikakran.com # optional
