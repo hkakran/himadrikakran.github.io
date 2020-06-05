@@ -5,6 +5,8 @@ theme        = "hello-friend-ng"
 paginate     = 10
 enableEmoji  = true
 
+disableKinds = "RSS"
+
 [params]
   dateform        = "Jan 2, 2006"
   dateformShort   = "Jan 2"
@@ -17,7 +19,7 @@ enableEmoji  = true
   # Set disableReadOtherPosts to true in order to hide the links to other posts.
   disableReadOtherPosts = false
 
-  customCSS = ["/static/style.css"]
+  customCSS = ["main.css"]
 
   # Metadata mostly used in document's head
   description = "Musings of a NYC Engineer"
@@ -57,8 +59,8 @@ enableEmoji  = true
     title = "Himadri Kakran"
     subtitle = ""
     keywords = ""
-    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
-    readOtherPosts = "Read other posts"
+    # copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+    # readOtherPosts = "Read other posts"
 
     [languages.en.params.logo]
       logoText = "cd /home/himadri"

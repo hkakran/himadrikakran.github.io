@@ -2,4 +2,6 @@
 
 # himadrikakran.github.io
 
-This is Himdari Kakran's public website
+My public website - available at [https://himadrikakran.com](https://himadrikakran.com)
+
+This website is generated via [hugo](https://gohugo.io/getting-started/quick-start/).
