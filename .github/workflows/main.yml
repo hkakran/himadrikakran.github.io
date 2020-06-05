@@ -17,16 +17,14 @@ jobs:
           submodules: true
       - name: Hugo Deploy GitHub Pages
         uses: benmatselby/hugo-deploy-gh-pages@v1.4.0
-        with:
+        env:
           # The version of hugo to use.
           # hugo_version: 
           # Your PAT to authorise the action to do things.
-          # GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
           # The repo name you want to clone and push to.
           TARGET_REPO: hkakran/himadrikakran.github.io
           # Any extra arguments to pass to Hugo.
           # hugo_args: # optional
           # If you are defining a custom domain name for your GitHub site, put that value in this variable.
           CNAME: himadrikakran.com # optional
-        env:
-          GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
