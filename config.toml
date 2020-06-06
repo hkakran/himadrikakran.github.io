@@ -19,7 +19,7 @@ disableKinds = "RSS"
   # Set disableReadOtherPosts to true in order to hide the links to other posts.
   disableReadOtherPosts = false
 
-  customCSS = ["main.css"]
+  customCSS = ["/custom.css"]
 
   # Metadata mostly used in document's head
   description = "Musings of a NYC Engineer"
