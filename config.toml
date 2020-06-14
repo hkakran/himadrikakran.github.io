@@ -29,9 +29,9 @@ disableKinds = "RSS"
   # Default theme "light" or "dark"
   defaultTheme = "light"
 
-  # [params.portrait]
-  #  path = "/static/portrait.jpg"
-  #  alt = "Portrait"
+  [params.portrait]
+    path = "/avatar1.jpg"
+    alt = "Portrait"
 
   [[params.social]]
     name = "twitter"
