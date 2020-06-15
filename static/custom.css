@@ -9,3 +9,7 @@ body {
 .post {
   font-size: 0.9em
 }
+
+img.circle {
+  max-width: 20%;
+}

@@ -30,7 +30,7 @@ disableKinds = "RSS"
   defaultTheme = "light"
 
   [params.portrait]
-    path = "/avatar1.jpg"
+    path = "/avatar-blue.png"
     alt = "Portrait"
 
   [[params.social]]
