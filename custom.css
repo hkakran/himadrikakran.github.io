@@ -1,5 +1,6 @@
 body {
-  font-family: 'Raleway';
+  font-family: 'Raleway',
+  src: local('Raleway Regular'), url('fonts/Raleway/Raleway-Regular.ttf')
 }
 
 .footer__content {
